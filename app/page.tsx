@@ -11,13 +11,7 @@ export default function Home() {
       <section className="relative w-full py-12 md:py-24 lg:py-32 xl:py-48 bg-gradient-to-br from-purple-600 to-purple-900">
         <div className="container px-4 md:px-6 mx-auto">
           <div className="flex flex-col items-center space-y-4 text-center text-white">
-            <Image
-              src="/images/logo.png"
-              alt="Annie's Wellness Sanctuary Spa"
-              width={180}
-              height={180}
-              className="mb-4"
-            />
+           
             <div className="space-y-2">
               <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">
                 Annie's Wellness Sanctuary Spa
