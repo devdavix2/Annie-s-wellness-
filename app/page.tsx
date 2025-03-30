@@ -27,7 +27,7 @@ export default function Home() {
                 </Button>
               </Link>
               <Link href="/services">
-                <Button variant="outline" className="border-white text-white hover:bg-white/10">
+                <Button variant="outline" className="border-white text-purple-100 hover:bg-white/10">
                   Our Services
                 </Button>
               </Link>
@@ -163,7 +163,7 @@ export default function Home() {
                 </Button>
               </Link>
               <Link href="tel:+2348101811316">
-                <Button variant="outline" className="border-white text-white hover:bg-white/10">
+                <Button variant="outline" className="border-white text-purple-100 hover:bg-white/10">
                   <Phone className="mr-2 h-4 w-4" /> Call Now
                 </Button>
               </Link>
